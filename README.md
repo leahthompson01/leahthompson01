@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leahthompson01
-- 👀 I’m interested in web development
+- 👀 I’m a software engineer at 100Devs
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on ... anything web development
 - 📫 How to reach me ... on twitter at https://twitter.com/LeahT2020 
