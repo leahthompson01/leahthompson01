@@ -31,15 +31,11 @@
 <p align="center">
  <img src="https://github.com/sudnyeshtalekar/leahthompson01/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/React.svg" alt="react" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/node.svg" alt="node" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
 </p>
 
 **I am Into ,**
