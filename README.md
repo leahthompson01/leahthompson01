@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Leah Thompson</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudnyeshtalekar" alt="sudnyeshtalekar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leahthompson01" alt="sudnyeshtalekar" /> </p>
 <br />
 <a href="https://twitter.com/LeahT2020">
   <img align="left" alt="Leah's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
