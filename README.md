@@ -31,16 +31,17 @@
 <p align="center">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/React.svg" alt="react" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/node.svg" alt="node" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="reactjs" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/tomchen/stack-icons/blob/master/logos/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/mongodb-icon.svg" alt="mongodb" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/tomchen/stack-icons/blob/master/logos/express.svg" alt="expressjs" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
-</p>
+
 
 **I am Into ,**
 
-**Web, App, ML & Stocks**
+**Web, App, Responsive Design, EdTech **
 <br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leahthompson01&show_icons=true&theme=dark" alt="leahthompson" /> 
