@@ -132,6 +132,3 @@ https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-
 **Web Design ,   Responsive Design ,   and EdTech Applications**
 
 <br />
-
----
-⭐️ From [sudnyeshtalekar](https://github.com/sudnyeshtalekar)
