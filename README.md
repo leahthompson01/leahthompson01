@@ -44,7 +44,28 @@
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using data from an API. You are able to generate a new Animal Crossing villager bt clicking on the button. This info is displayed on a playing card.</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using data from an API. You are able to generate a new Animal Crossing villager by clicking on the button. This info is displayed on a playing card.</p>
+</div>
+  
+  <h3 align="center" color="white">MarioKart Racer Picker</h2>
+<div align="center" >  
+<a href='https://leahthompson01.github.io/MarioKart/'> 
+</a>
+  
+https://user-images.githubusercontent.com/97814431/168461641-a5d57957-96ae-4880-9944-89077f5c90de.mp4
+  
+<br>
+<br>
+<p>
+  <a href="https://github.com/leahthompson01/MarioKart" target="_blank">
+  
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+    
+<a href="https://animal-crossing-app.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+</a>
+</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> - In this project, you can switch between mariokart racers by clicking on them. When clicked, a gif of that racer will play!</p>
 </div>
 </td>
 <td width="50%">
@@ -65,20 +86,29 @@ https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
-<p><strong>JavaScript, HTML5, CSS3</strong> - Completed as a team of four during a hackathon. This project won best capital hack! This website is not only responsive and includes accessibility deatures such as text to speech. It also includes calculators to accurately estimate how much money is in your 401k or 403b account.</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - Completed for a hackathon, this website is not only responsive and fully accessible. It also includes calculators to accurately estimate how much money is in your 401k or 403b account.</p>
+</div>
+  <h3 align="center" color="white">Above the Horizon</h2>
+<div align="center" >  
+<a href='https://leahthompson01.github.io/UpdatedSpace/index.html'>
+</a>
+ 
+https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-947b-b63722c42e64.mp4
+  
+<br>
+<br>
+<p>
+<a href="https://github.com/leahthompson01/UpdatedSpace" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://leahthompson01.github.io/UpdatedSpace/index.html" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
+</a>
+</p>
+<p><strong>JavaScript, HTML5, CSS3</strong> - Completed as a team of four during a hackathon. This project won best space hack! Miami residents can use this app to learn more about the Florida space scene.</p>
 </div>
 </table>
 
-
-<!-- <h3 align="center">Highlighted Projects </h3>
-<p>
-  <img src="https://user-images.githubusercontent.com/97814431/168458726-f151d976-11a5-4687-bac0-861410dc2896.gif">
-<img src="https://user-images.githubusercontent.com/97814431/168458744-a32c7438-3390-42d0-9fcd-55e0542fe685.gif">
-
- https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-947b-b63722c42e64.mp4
-  
-</p>
- -->
 <h2>Contact Me:
 <p > <img src="https://komarev.com/ghpvc/?username=leahthompson01" alt="sudnyeshtalekar" /> </p>
 <a href="https://twitter.com/LeahT2020">
