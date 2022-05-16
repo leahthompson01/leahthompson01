@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/97814431/168461641-a5d57957-96ae-4880-
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="https://animal-crossing-app.netlify.app/" target="_blank">
+<a href="https://leahthompson01.github.io/MarioKart/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
