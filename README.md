@@ -114,9 +114,6 @@ https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-
 <a href="https://twitter.com/LeahT2020">
   <img  alt="Leah's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/leah-thompson-3a163416a/">
-  <img  alt="Sudnyesh's Linkdein" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
 <a href="https://github.com/leahthompson01">
   <img  alt="Sudnyesh's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
