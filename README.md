@@ -110,7 +110,7 @@ https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-
 
 <h2 align="center">Contact Me:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leahthompson01" alt="sudnyeshtalekar" /> </p>
-<a href="https://twitter.com/LeahT2020">
+<a href="https://twitter.com/LeahTCodes">
   <img  alt="Leah's Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/leahthompson01">
