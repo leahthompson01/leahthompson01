@@ -46,25 +46,28 @@
 <p><strong>JavaScript, CSS3, HTML5</strong> - Created a vanilla JavaScript application using data from an API. You are able to generate a new Animal Crossing villager by clicking on the button. This info is displayed on a playing card.</p>
 </div>
   
-  <h3 align="center" color="white">MarioKart Racer Picker</h2>
+
+
+
+  <h3 align="center" color="white">Operation Battles</h2>
 <div align="center" >  
-<a href='https://leahthompson01.github.io/MarioKart/'> 
+<a href='https://github.com/leahthompson01/MathApp'> 
 </a>
   
-https://user-images.githubusercontent.com/97814431/168461641-a5d57957-96ae-4880-9944-89077f5c90de.mp4
+https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-9fc1-4d48cdad75f7.mp4
   
 <br>
 <br>
 <p>
-  <a href="https://github.com/leahthompson01/MarioKart" target="_blank">
+  <a href="https://github.com/leahthompson01/FlaskMathAPI" target="_blank">
   
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-<a href="https://leahthompson01.github.io/MarioKart/" target="_blank">
+<a href="https://github.com/leahthompson01/MathApp" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> - In this project, you can switch between mariokart racers by clicking on them. When clicked, a gif of that racer will play!</p>
+<p><strong>React, Flask, Socketio</strong> - This is a multiplayer math quiz app! You can compete against friends while taking math quizzes.</p>
 </div>
 </td>
 <td width="50%">
