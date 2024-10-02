@@ -1,4 +1,4 @@
-![Leah Thompson (8)](https://user-images.githubusercontent.com/97814431/194848686-73f7e53a-4b3d-428f-9e26-af37e3daebc3.png)
+
 
 <!-- ![Blue Peach Watch Movie and Chill Twitter Banner (3)](https://user-images.githubusercontent.com/97814431/168457214-e9e85f76-04b1-4c2d-892f-b72bfdf635a6.png) -->
 
