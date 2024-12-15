@@ -10,7 +10,7 @@
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Leah and I currently live in Colorado. 
 - 🔭 I’m a software engineer with a background in mathematics.
 - 🌱 I’m passionate about full stack web development, and educational websites and applications.
-- 🎥 I enjoy making technical content on Twitch, Twitter, Bluesky, and youtube.
+- 🎥 I enjoy making technical content on Twitch, Twitter, Bluesky, and Youtube.
 - 👯 I’m currently open to job opportunities for Frontend or Full Stack developer roles, as well as DevRel or Dev Advocate positions.
 - 💬 Ask me about Websites, Apps, Math, or Technical content creation.
 
