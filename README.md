@@ -7,13 +7,14 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <b align="center"></b> <br>
-- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Leah and I'm from Florida
+- <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/girl-light-skin-tone.png" height= 15px width = 15px> My name's Leah and I currently live in Colorado. 
 - 🔭 I’m a software engineer with a background in mathematics.
 - 🌱 I’m passionate about full stack web development, and educational websites and applications.
-- 👯 I’m looking to collaborate on Open-source Projects.
-- 💬 Ask me about Websites, Apps, and Math.
+- 🎥 I enjoy making technical content on Twitch, Twitter, Bluesky, and youtube.
+- 👯 I’m currently open to job opportunities for Frontend or Full Stack developer roles, as well as DevRel or Dev Advocate positions.
+- 💬 Ask me about Websites, Apps, Math, or Technical content creation.
 
-<p>With my degree in mathematics and experience in teaching, I was always looking for solutions to help students learn more effectively. Throughout teaching, I saw students struggle with learning because the tools we had were simply not successful in bridging the educational gap for students. I felt called to pick up Software Engineering with the goal of helping students learn more efficiently and fell in love with using tech to solve problems.
+<p>Full Stack web developer passionate about math and problem solving, currently open to opportunities either as a developer or devrel and dev advocate. Also open to sponsorships for my twitch streams. Experienced in TypeScript, React, Laravel, PHP, MySQL, and Tailwind to build responsive sites and applications. I also have experience building APIs in Python using FastAPI and Flask, as well as Java using Spring Boot.
 </ p>
 
 
