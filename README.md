@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/97814431/194847774-77c357c3-8449-4e0e-
 <td width="50%">
 <h3 align="center" color="white">Capital Hack</h2>
 <div align="center" >  
-<a href='https://raissa-k.github.io/TECHTOGETHER-HACK/index.html'>
+<a href='https://capital-hack.netlify.app/'>
 </a>
  
 https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-8916-1c19bb1b5243.mp4
@@ -86,7 +86,7 @@ https://user-images.githubusercontent.com/97814431/168461352-2769d13c-7079-4a4b-
 <a href="https://github.com/raissa-k/TECHTOGETHER-HACK" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://raissa-k.github.io/TECHTOGETHER-HACK/index.html" target="_blank">
+<a href="https://capital-hack.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=cb7e67"/>
 </a>
 </p>
